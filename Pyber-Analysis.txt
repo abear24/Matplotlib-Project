@@ -1,0 +1,7 @@
+Analysis of Trends:
+
+- Urban cities have a higher percentage of (about 62%) total fares as compared to Suburban(suburban being the second highest) and Rural Cites(rural being the least).
+-Urban cities have a higher percentage of total rides as compared to Suburban and Rural Cities
+- Urban cities also have a higher percentage of total drivers as compared to the other cities. 
+-Urban cities had the lowest average fares as compared to the other cities. 
+- In all, Urban cities account for the most Pyber clientele. 
